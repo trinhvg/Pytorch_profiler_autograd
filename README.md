@@ -1,4 +1,8 @@
 # Pytorch_profiler_autograd
+++++++UPDATE+++++++++++++++
+My server was fixed, 
+A6000 runs well now, no slow problems.
++++++++++++++++++++++++++++
 
 Suppose you already have PyTorch. Then execute the torch_profiler.py file.
 
